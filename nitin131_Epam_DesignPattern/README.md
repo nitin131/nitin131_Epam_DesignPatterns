@@ -1,4 +1,4 @@
-# gannamuneni-harsha-vardhan-design-patterns
+# nitin131_Epam_DesignPatterns
   Creational design patterns:
     > Singleton design pattern
     >Factory method pattern
